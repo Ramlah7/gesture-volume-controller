@@ -1,7 +1,7 @@
 import cv2
 import mediapipe as mp
 import time
-import HandTrackingModule as htm
+import HandTrackModule as htm
 import math
 wcam,hcam=640,480
 import numpy as np
